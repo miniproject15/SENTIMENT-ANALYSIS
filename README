@@ -1,0 +1,7 @@
+To run the project code you need a python enabled system with nltk package installed . You need to download all the corpus 
+using "nltk.download()"  (without quotes)
+eg.: $nltk.download()
+
+You need to run the following command
+$python guifinal.py
+
